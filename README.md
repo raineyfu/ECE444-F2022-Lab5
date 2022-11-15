@@ -2,6 +2,11 @@ This repo is a clone of: https://github.com/nelaturuk/education_pathways
 
 ![image](https://user-images.githubusercontent.com/59759137/197931849-3676550c-d834-4c16-985c-8bcf92d826c7.png)
 
+![image](https://user-images.githubusercontent.com/59759137/202012194-3c7c3f15-7006-4425-9628-90107dc84454.png)
+
+![image](https://user-images.githubusercontent.com/59759137/202012472-993d2f19-d8c2-453f-bdac-050d38907ead.png)
+
+
 
 ![image](https://user-images.githubusercontent.com/59759137/197935095-44f88079-48b7-424c-bb87-50a731e504ad.png)
 Toggle switch for changing between 2 different page styles
